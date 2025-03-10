@@ -1,0 +1,22 @@
+```html
+<h1>Hello World on LiquidCrystal I2C</h1>
+
+<p>This project demonstrates how to display "Hello, world!" on a LiquidCrystal I2C display using an Arduino.</p>
+
+<h2>Requirements</h2>
+<ul>
+    <li>Arduino board</li>
+    <li>LiquidCrystal I2C display</li>
+    <li>Arduino IDE</li>
+    <li>LiquidCrystal I2C library</li>
+</ul>
+
+<h2>Setup</h2>
+<ol>
+    <li>Connect the LiquidCrystal I2C display to the Arduino board.</li>
+    <li>Install the LiquidCrystal I2C library in the Arduino IDE.</li>
+</ol>
+
+<h2>Code</h2>
+<p>The code for this project is located in <code>sketch.ino</code>:</p>
+```
